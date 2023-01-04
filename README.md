@@ -1,6 +1,6 @@
 # DATA603-Project
 
-##Superstore Regression Analysis
+## Superstore Regression Analysis
 
 For my project, I have selected a dataset that contains information about a superstore that sells commercial items. The dataset includes details about the store's shipping and selling operations. This data could be useful for understanding various aspects of the store's business, including customer behavior and sales trends.
 
